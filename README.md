@@ -9,7 +9,7 @@ This project implements a text case converter that intelligently changes the cas
 
 Skills Used:
 
-String manipulation
-ASCII character handling
-Basic control flow and conditional statements
+String manipulation ,
+ASCII character handling ,
+Basic control flow and conditional statements ,
 Modular programming (using functions from a different file)
